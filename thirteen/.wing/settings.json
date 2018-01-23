@@ -1,0 +1,9 @@
+{
+	"search.exclude": {
+		"**/bin-debug": true,
+		"**/bin-release": true
+	}
+,
+"editor.fontFamily": "Consolas, 'Courier New', monospace",
+"editor.fontSize": 16
+}

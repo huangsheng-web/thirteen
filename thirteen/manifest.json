@@ -1,0 +1,24 @@
+{
+	"initial": [
+		"libs/modules/egret/egret.js",
+		"libs/modules/egret/egret.web.js",
+		"libs/modules/game/game.js",
+		"libs/modules/res/res.js",
+		"libs/modules/eui/eui.js",
+		"libs/modules/tween/tween.js",
+		"libsrc/bin/socket.io/socket.io.js",
+		"promise/bin/promise.js"
+	],
+	"game": [
+		"bin-debug/AssetAdapter.js",
+		"bin-debug/LoadingUI.js",
+		"bin-debug/Main.js",
+		"bin-debug/SendCloseInfo.js",
+		"bin-debug/SendHeight.js",
+		"bin-debug/SendLoginSignal.js",
+		"bin-debug/sendToLand.js",
+		"bin-debug/ThemeAdapter.js",
+		"bin-debug/Thirteen.js",
+		"bin-debug/Tool.js"
+	]
+}

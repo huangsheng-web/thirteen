@@ -1,0 +1,1 @@
+{"version":3,"file":"sendToLand.js","sourceRoot":"","sources":["../src/sendToLand.ts"],"names":[],"mappings":";;;;;;;;;;;;;AAAA;IAA4B,iCAAW;IAWnC,uBAAmB,IAAW,EAAC,OAAqB,EAAC,UAAwB;QAA9C,wBAAA,EAAA,eAAqB;QAAC,2BAAA,EAAA,kBAAwB;eACzE,kBAAM,IAAI,EAAC,OAAO,EAAC,UAAU,CAAC;IAClC,CAAC;IAXa,uBAAS,GAAU,SAAS,CAAC;IAY/C,oBAAC;CAAA,AAdD,CAA4B,KAAK,CAAC,KAAK,GActC;AAdK,UAAA,aAAa,4BAclB,CAAA"}

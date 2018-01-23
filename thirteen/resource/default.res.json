@@ -1,0 +1,231 @@
+{
+	"groups": [
+		{
+			"keys": "checkbox_select_disabled_png,checkbox_select_down_png,checkbox_select_up_png,checkbox_unselect_png,selected_png,border_png,header_png,radiobutton_select_disabled_png,radiobutton_select_down_png,radiobutton_select_up_png,radiobutton_unselect_png,roundthumb_png,thumb_png,track_png,tracklight_png,handle_png,off_png,on_png,thumb_pb_png,track_pb_png,track_sb_png,description_json,cards_json,system_avatar_json,choose_game_json,normal_mp3,s001_mp3,s004_mp3,welcome_mp3,button_json,thirteen_json,chupai_mp3,duizi_mp3,hulu_mp3,liangdui_mp3,santiao_mp3,shunzi_mp3,tonghua_mp3,tonghuashun_mp3,wulong_mp3,zhadan_mp3,beginC_mp3,show_json",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/CheckBox/checkbox_select_disabled.png",
+			"type": "image",
+			"name": "checkbox_select_disabled_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_select_down.png",
+			"type": "image",
+			"name": "checkbox_select_down_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_select_up.png",
+			"type": "image",
+			"name": "checkbox_select_up_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_unselect.png",
+			"type": "image",
+			"name": "checkbox_unselect_png"
+		},
+		{
+			"url": "assets/ItemRenderer/selected.png",
+			"type": "image",
+			"name": "selected_png"
+		},
+		{
+			"url": "assets/Panel/border.png",
+			"type": "image",
+			"name": "border_png"
+		},
+		{
+			"url": "assets/Panel/header.png",
+			"type": "image",
+			"name": "header_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_select_disabled.png",
+			"type": "image",
+			"name": "radiobutton_select_disabled_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_select_down.png",
+			"type": "image",
+			"name": "radiobutton_select_down_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_select_up.png",
+			"type": "image",
+			"name": "radiobutton_select_up_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_unselect.png",
+			"type": "image",
+			"name": "radiobutton_unselect_png"
+		},
+		{
+			"url": "assets/ScrollBar/roundthumb.png",
+			"type": "image",
+			"name": "roundthumb_png"
+		},
+		{
+			"url": "assets/Slider/thumb.png",
+			"type": "image",
+			"name": "thumb_png"
+		},
+		{
+			"url": "assets/Slider/track.png",
+			"type": "image",
+			"name": "track_png"
+		},
+		{
+			"url": "assets/Slider/tracklight.png",
+			"type": "image",
+			"name": "tracklight_png"
+		},
+		{
+			"url": "assets/ToggleSwitch/handle.png",
+			"type": "image",
+			"name": "handle_png"
+		},
+		{
+			"url": "assets/ToggleSwitch/off.png",
+			"type": "image",
+			"name": "off_png"
+		},
+		{
+			"url": "assets/ToggleSwitch/on.png",
+			"type": "image",
+			"name": "on_png"
+		},
+		{
+			"url": "assets/ProgressBar/thumb_pb.png",
+			"type": "image",
+			"name": "thumb_pb_png"
+		},
+		{
+			"url": "assets/ProgressBar/track_pb.png",
+			"type": "image",
+			"name": "track_pb_png"
+		},
+		{
+			"url": "assets/ScrollBar/track_sb.png",
+			"type": "image",
+			"name": "track_sb_png"
+		},
+		{
+			"url": "config/description.json",
+			"type": "json",
+			"name": "description_json"
+		},
+		{
+			"url": "assets/Cards/cards.json",
+			"type": "sheet",
+			"name": "cards_json",
+			"subkeys": "clubs_1,clubs_10,clubs_11,clubs_12,clubs_13,clubs_2,clubs_3,clubs_4,clubs_5,clubs_6,clubs_7,clubs_8,clubs_9,diamonds_1,diamonds_10,diamonds_11,diamonds_12,diamonds_13,diamonds_2,diamonds_3,diamonds_4,diamonds_5,diamonds_6,diamonds_7,diamonds_8,diamonds_9,hearts_1,hearts_10,hearts_11,hearts_12,hearts_13,hearts_2,hearts_3,hearts_4,hearts_5,hearts_6,hearts_7,hearts_8,hearts_9,hide_card,king,queen,selected_mask,spades_1,spades_10,spades_11,spades_12,spades_13,spades_2,spades_3,spades_4,spades_5,spades_6,spades_7,spades_8,spades_9"
+		},
+		{
+			"url": "assets/SystemAvatar/system_avatar.json",
+			"type": "sheet",
+			"name": "system_avatar_json",
+			"subkeys": "system_avatar_1,system_avatar_10,system_avatar_11,system_avatar_12,system_avatar_13,system_avatar_14,system_avatar_15,system_avatar_16,system_avatar_17,system_avatar_18,system_avatar_19,system_avatar_2,system_avatar_20,system_avatar_21,system_avatar_22,system_avatar_23,system_avatar_24,system_avatar_25,system_avatar_26,system_avatar_27,system_avatar_28,system_avatar_29,system_avatar_3,system_avatar_30,system_avatar_31,system_avatar_32,system_avatar_33,system_avatar_4,system_avatar_5,system_avatar_7,system_avatar_8,system_avatar_9"
+		},
+		{
+			"url": "assets/ChooseGame/choose_game.json",
+			"type": "sheet",
+			"name": "choose_game_json",
+			"subkeys": "menu_03,menu_04,menu_06,menu_07"
+		},
+		{
+			"name": "normal_mp3",
+			"type": "sound",
+			"url": "assets/Sound/normal.mp3"
+		},
+		{
+			"name": "s001_mp3",
+			"type": "sound",
+			"url": "assets/Sound/s001.mp3"
+		},
+		{
+			"name": "s004_mp3",
+			"type": "sound",
+			"url": "assets/Sound/s004.mp3"
+		},
+		{
+			"name": "welcome_mp3",
+			"type": "sound",
+			"url": "assets/Sound/welcome.mp3"
+		},
+		{
+			"name": "button_json",
+			"type": "sheet",
+			"url": "assets/Button/button.json",
+			"subkeys": "play_again,put_out,ranking_list,ready,recharge,return,reward,save,set,start,yesBg,waysListBg,anniu_06-07,back,cancel_match,expresslogin,first_prize,idlogin,invitation,keeplogin,login,match_mask,matching,mine,more_games,new_table,no_call,pass"
+		},
+		{
+			"name": "thirteen_json",
+			"type": "sheet",
+			"url": "assets/thirteen/thirteen.json",
+			"subkeys": "13_logo,boom1,chat,GameStatus01,GameStatus02,gun,hole,poker_baifang_cancel,room_info_bg,sp_people,swat_bg,swat_star,swat_title,task,type1,type2,type3,type4,type5,type6,type7,type8,type9"
+		},
+		{
+			"name": "chupai_mp3",
+			"type": "sound",
+			"url": "assets/Sound/chupai.mp3"
+		},
+		{
+			"name": "duizi_mp3",
+			"type": "sound",
+			"url": "assets/Sound/duizi.mp3"
+		},
+		{
+			"name": "hulu_mp3",
+			"type": "sound",
+			"url": "assets/Sound/hulu.mp3"
+		},
+		{
+			"name": "liangdui_mp3",
+			"type": "sound",
+			"url": "assets/Sound/liangdui.mp3"
+		},
+		{
+			"name": "santiao_mp3",
+			"type": "sound",
+			"url": "assets/Sound/santiao.mp3"
+		},
+		{
+			"name": "shunzi_mp3",
+			"type": "sound",
+			"url": "assets/Sound/shunzi.mp3"
+		},
+		{
+			"name": "tonghua_mp3",
+			"type": "sound",
+			"url": "assets/Sound/tonghua.mp3"
+		},
+		{
+			"name": "tonghuashun_mp3",
+			"type": "sound",
+			"url": "assets/Sound/tonghuashun.mp3"
+		},
+		{
+			"name": "wulong_mp3",
+			"type": "sound",
+			"url": "assets/Sound/wulong.mp3"
+		},
+		{
+			"name": "zhadan_mp3",
+			"type": "sound",
+			"url": "assets/Sound/zhadan.mp3"
+		},
+		{
+			"name": "beginC_mp3",
+			"type": "sound",
+			"url": "assets/Sound/beginC.mp3"
+		},
+		{
+			"name": "show_json",
+			"type": "sheet",
+			"url": "assets/Show/show.json",
+			"subkeys": "logo_bg,lose,money,multiply,no_put,noRob,rob,room_bg,silver_cup,timer,times,win,chatBg,anniu_03,boy,call,clock,copper,double_bg,game_over,girl,gold_cup,is_ready,landlord,loading"
+		}
+	]
+}
